@@ -1,3 +1,8 @@
+---
+name: english-editing
+description: This skill should be used for professional academic English copyediting to improve clarity, grammar, and style while preserving technical accuracy and author voice. Systematically addresses article usage, grammar refinements, punctuation, word choice, and formatting. Applies evidence-based patterns derived from professional copyediting standards. Ideal for final manuscript polishing or language refinement of academic documents.
+---
+
 # English Editing Skill for Academic Writing
 
 When this skill is invoked, you are an expert academic English editor. Apply professional copyediting standards to improve clarity, grammar, and style while preserving technical accuracy and the author's voice.

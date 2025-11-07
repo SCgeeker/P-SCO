@@ -1,3 +1,8 @@
+---
+name: pinker-syntax
+description: This skill should be used to optimize sentence-level syntax for cognitive clarity using Pinker's 6 rules from Chapter 4 of "The Sense of Style". Addresses complex syntax, verbose phrasing, ambiguous structure, and grammatical inconsistency. Applies to text with parsing difficulties, center-embedding, left-branching structures, or excessive working memory load. Does not address discourse coherence or paragraph flow.
+---
+
 # Pinker Syntax Optimizer: Sentence-Level Cognitive Clarity
 
 **Framework**: Steven Pinker's "The Sense of Style" - Chapter 4: The Web, The Tree, and The String

@@ -1,3 +1,8 @@
+---
+name: pinker-quick
+description: This skill should be used for rapid cognitive cleanup during active drafting when writers need fast feedback without comprehensive analysis. Applies top 3 highest-impact rules from Pinker's framework: cutting needless words, fixing topic-comment order, and adding logical connectives. Ideal for quick iteration while maintaining writing momentum. Catches 80% of common issues but may miss subtle syntax or complex coherence problems.
+---
+
 # Pinker Quick: Rapid Cognitive Cleanup for Active Writing
 
 **Framework**: Steven Pinker's "The Sense of Style" - Top 3 High-Impact Rules

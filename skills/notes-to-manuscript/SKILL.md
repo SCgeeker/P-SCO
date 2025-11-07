@@ -1,3 +1,8 @@
+---
+name: notes-to-manuscript
+description: This skill should be used to convert scattered research notes into structured manuscript drafts using an ethical, scaffolded AI approach. Helps organize notes into focal statements, generate initial draft paragraphs as scaffolds for manual rewriting, and structure ideas with proper flow. Emphasizes AI as scaffold (not final output) to preserve academic integrity. Based on "From Notes to Manuscript Using Ethical AI" workflow.
+---
+
 # Notes-to-Manuscript: Academic Writing from Research Notes
 
 When this skill is invoked, you help researchers convert scattered research notes into structured manuscript drafts using an ethical, scaffolded AI approach.

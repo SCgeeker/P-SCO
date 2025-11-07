@@ -1,0 +1,27 @@
+{
+  "name": "p-cso-writing-system",
+  "owner": {
+    "name": "Sau-Chin Chen",
+    "email": "pmsp96@gmail.com"
+  },
+  "metadata": {
+    "description": "Academic writing system based on Pinker's Cognitive Style Optimization framework for enhancing clarity and coherence in scholarly writing",
+    "version": "0.9.0"
+  },
+  "plugins": [
+    {
+      "name": "p-cso-skills",
+      "description": "Complete P-CSO writing workflow including drafting, syntax optimization, coherence enhancement, and final editing based on Steven Pinker's 'The Sense of Style'. Designed for academic manuscript preparation with progressive cognitive style improvement.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/p-cso-workflow",
+        "./skills/pinker-syntax",
+        "./skills/pinker-coherence",
+        "./skills/pinker-quick",
+        "./skills/notes-to-manuscript",
+        "./skills/english-editing"
+      ]
+    }
+  ]
+}

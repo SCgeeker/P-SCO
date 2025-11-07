@@ -1,3 +1,8 @@
+---
+name: pinker-coherence
+description: This skill should be used to optimize paragraph and multi-sentence flow for logical clarity using Pinker's 7 discourse-level coherence principles from Chapter 5 of "The Sense of Style". Ensures clear topic orientation, smooth information flow, consistent entity tracking, and explicit logical connections. Applies to text with unclear transitions, buried topics, or weak paragraph coherence. Does not address sentence-level syntax issues.
+---
+
 # Pinker Coherence Optimizer: Discourse-Level Flow and Logic
 
 **Framework**: Steven Pinker's "The Sense of Style" - Chapter 5: Arcs of Coherence
